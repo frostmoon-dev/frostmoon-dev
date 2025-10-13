@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://i.imgur.com/DjyJwnn.gif" width="150" />
+  <img src="https://i.imgur.com/DjyJwnn.gif" width="100" />
 </p>
 <p align="center">
   霜月 ♡
 </p>
-
-<p align="center">· · ────────────── · ·</p>
 <dl>
   <dt align="center">A ditzy developer who likes creating cute things.</dt><br>
+<p align="center">· · ────────────── · ·</p>
+
 
 <div align="center">
   <p>
@@ -26,7 +26,10 @@
 <div align="center">
    <p align="center">
   <img src="https://i.imgur.com/0GhANIg.gif" width="150" />
+      <dt align="center">Tools I use.</dt>
 </p>
+  <p align="center">· · ────────────── · ·</p>
+<dl>
   <p>
     <img src="https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=microsoft-dynamics-365&logoColor=white" alt="Dynamics 365"/>
     <img src="https://img.shields.io/badge/X++-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="X++"/>
@@ -41,6 +44,10 @@
 </div>
 
 ---
+ <dt align="center">Feel free to contact me.</dt>
+</p>
+  <p align="center">· · ────────────── · ·</p>
+<dl>
 <p align="center">
   <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
