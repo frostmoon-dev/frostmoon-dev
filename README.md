@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/DjyJwnn.gif" width="100" />
+  <img src="https://i.imgur.com/DjyJwnn.gif" width="150" />
 </p>
 <p align="center">
   霜月 ♡
