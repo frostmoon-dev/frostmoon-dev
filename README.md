@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://imgur.com/nus0Lzl.png" width="150"/>
   <H1 align="center">
-  霜月 ♡ FROSTMOON
+  霜月 ♡ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
 </H1>
 </p>
 <dl>
@@ -18,11 +18,8 @@
 </div>
 
 ---
-
-<div align="center">
-    <img src="https://imgur.com/1fMUAeo.png" width="150"/>
 <H1 align="center">
-  SKILLS
+  𝑺𝒌𝒊𝒍𝒍𝒔
 </H1>
 </p>
 <dl>
@@ -38,10 +35,8 @@
 </div>
 
 ---
-<div align="center">
-    <img src="https://imgur.com/1fMUAeo.png" width="150"/>
 <H1 align="center">
-  CONTACT ME
+  𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 </H1>
 <p align="center">
   <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
