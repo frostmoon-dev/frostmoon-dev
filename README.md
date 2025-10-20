@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://imgur.com/1fMUAeo.png" width="150"/>
+  <img src="https://imgur.com/nus0Lzl.png" width="150"/>
   <H1 align="center">
   霜月 ♡ FROSTMOON
 </H1>
 </p>
 <dl>
-  <dt align="center">A creative developer crafting cute and powerful digital experiences.</dt><br>
-<p align="center">· · ──────────────────────────────── · ·</p>
 <div align="center">
     <p>
     <img src="https://img.shields.io/badge/Likes-Cats%20🐾-8892b0?style=for-the-badge&logoColor=white" alt="Likes: Cats"/>
@@ -22,16 +20,15 @@
 ---
 
 <div align="center">
-   <p align="center">
-  <img src="https://i.imgur.com/0GhANIg.gif" width="150" />
-      <dt align="center">Tools I use.</dt>
+    <img src="https://imgur.com/1fMUAeo.png" width="150"/>
+<H1 align="center">
+  SKILLS
+</H1>
 </p>
-  <p align="center">· · ────────────────────────── · ·</p>
 <dl>
   <p>
     <img src="https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=microsoft-dynamics-365&logoColor=white" alt="Dynamics 365"/>
     <img src="https://img.shields.io/badge/X++-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="X++"/>
-    <br><br>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
@@ -41,10 +38,11 @@
 </div>
 
 ---
- <dt align="center">Feel free to contact me.</dt>
-</p>
-  <p align="center">· · ──────────────────────────────── · ·</p>
-<dl>
+<div align="center">
+    <img src="https://imgur.com/1fMUAeo.png" width="150"/>
+<H1 align="center">
+  CONTACT ME
+</H1>
 <p align="center">
   <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
