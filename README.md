@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
   <img src="https://imgur.com/nus0Lzl.png" width="150"/>
-  <H1 align="center">
-  霜月 ♡ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
+  <H1>
+  霜月 ♡ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
 </H1>
-</p>
-<dl>
+</div>
+
 <div align="center">
     <p>
     <img src="https://img.shields.io/badge/Likes-Cats%20🐾-8892b0?style=for-the-badge&logoColor=white" alt="Likes: Cats"/>
@@ -21,24 +21,21 @@
 <H1 align="center">
   𝑺𝒌𝒊𝒍𝒍𝒔
 </H1>
-</p>
-<dl>
-  <p align="center">
-  <p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/X++-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="X++"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
     <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  </p>
 </p>
-</div>
 
 ---
 <H1 align="center">
   𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 </H1>
+
 <p align="center">
   <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
@@ -50,7 +47,6 @@
 </p>
 
 ---
-
-> <p align="center">
->  <i>"Always be true to yourself."</i>
-> </p>
+<p align="center">
+ <i>"Always be true to yourself."</i>
+</p>
