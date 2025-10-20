@@ -23,8 +23,8 @@
 </H1>
 </p>
 <dl>
+  <p align="center">
   <p>
-    <img src="https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=microsoft-dynamics-365&logoColor=white" alt="Dynamics 365"/>
     <img src="https://img.shields.io/badge/X++-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="X++"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   </p>
+</p>
 </div>
 
 ---
