@@ -3,7 +3,7 @@
   <H1>
   霜月 ♡ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
 </H1>
-  <p><i>Building solutions that work, one line of code at a time</i></p>
+  <p><i>Building solutions that work, one line of code at a time.</i></p>
 </div>
 
 <div align="center">
