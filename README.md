@@ -35,7 +35,7 @@ and bringing my love for design into the mix. There's something really satisfyin
 </p>
 
 <p align="center">
-💙 <i>Certified Microsoft Dynamics 365 Finance and Operations Apps Developer Associate</i>
+♡ <i>Certified Microsoft Dynamics 365 Finance and Operations Apps Developer Associate</i>
 </p>
 
 ---
