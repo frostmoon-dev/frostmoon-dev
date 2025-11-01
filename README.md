@@ -4,7 +4,7 @@
   霜月 ♡ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=C4A1D7&center=true&vCenter=true&width=435&lines=Skills+%26+Tools+;My+Tech+Stack;One+line+of+code+at+a+time;Brewing+Magic" alt="Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=C4A1D7&center=true&vCenter=true&width=435&lines=Skills+%26+Tools+;My+Tech+Stack;One+line+of+code+at+a+time+♡;Brewing+Magic" alt="Skills" />
 </h1>
 
 <div align="center">
@@ -19,7 +19,31 @@
   </p>
 </div>
 
----
+</div>
+
+```coffee
+class FrostMoon {
+  constructor() {
+    this.role = "Microsoft Dynamics 365 Developer";
+    this.specialties = ["Finance & Operations", "Business Central"];
+    this.currentMood = "✨ caffeinated & creative ✨";
+    this.passion = ["Backend Magic", "Beautiful Interfaces", "Cat Pats"];
+  }
+  
+  dailyRoutine() {
+    return [
+      "☕ Brew iced coffee",
+      "💻 Code in X++ and AL", 
+      "🎨 Design dreamy UIs",
+      "🐱 Pet all the cats",
+      "🌙 Repeat under moonlight"
+    ];
+  }
+}
+```
+
+<div align="center">
+
 
 <H1 align="center">
   𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
@@ -29,6 +53,8 @@
 I'm a <b>Microsoft Dynamics 365 Developer</b> specializing in Finance & Operations and Business Central.<br/>
 I build backend solutions with <b>X++</b> and <b>AL</b>, customize SSRS reports, and make sure everything runs smoothly behind the scenes.
 </p>
+
+
 
 <p align="center">
 Lately, I've been exploring the creative side of development — building web applications with <b>Next.js</b> and <b>React</b>,<br/>
