@@ -19,32 +19,6 @@
   </p>
 </div>
 
-</div>
-
-```coffee
-class FrostMoon {
-  constructor() {
-    this.role = "Microsoft Dynamics 365 Developer";
-    this.specialties = ["Finance & Operations", "Business Central"];
-    this.currentMood = "✨ caffeinated & creative ✨";
-    this.passion = ["Backend Magic", "Beautiful Interfaces", "Cat Pats"];
-  }
-  
-  dailyRoutine() {
-    return [
-      "☕ Brew iced coffee",
-      "💻 Code in X++ and AL", 
-      "🎨 Design dreamy UIs",
-      "🐱 Pet all the cats",
-      "🌙 Repeat under moonlight"
-    ];
-  }
-}
-```
-
-<div align="center">
-
-
 <H1 align="center">
   𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 </H1>
