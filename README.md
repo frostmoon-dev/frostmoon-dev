@@ -7,7 +7,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=Skills+%26+Tools+;My+Tech+Stack;One+line+of+code+at+a+time+♡;Brewing+Magic" alt="Skills" />
 </h1>
-
+<pre>
+╔════════════════════════════════════════╗
+║  > frostmoon.exe --loading             ║
+║  > Status: Caffeinated                 ║
+║  > Mode: Creative                      ║
+║  > Output: Code & Magic                ║
+╚════════════════════════════════════════╝
+</pre>
 <div align="center">
     <p>
     <img src="https://img.shields.io/badge/Specialty-D365%20F&O%20💼-E6D5F0?style=for-the-badge&labelColor=D4BBDD&logoColor=white" alt="Specialty: D365"/>
