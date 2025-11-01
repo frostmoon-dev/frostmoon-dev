@@ -2,9 +2,10 @@
   <img src="https://imgur.com/dIDatBb.png" width="150"/>
   <H1>
   霜月 ♡ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
-</H1>
-  <p><i>One line of code at a time.</i></p>
-</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=C4A1D7&center=true&vCenter=true&width=435&lines=Skills+%26+Tools+;My+Tech+Stack;One+line+of+code+at+a+time;Brewing+Magic" alt="Skills" />
+</h1>
 
 <div align="center">
     <p>
