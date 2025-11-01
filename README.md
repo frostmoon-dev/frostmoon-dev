@@ -7,6 +7,33 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=Skills+%26+Tools+;My+Tech+Stack;One+line+of+code+at+a+time+♡;Brewing+Magic" alt="Skills" />
 </h1>
+
+<table align="center" border="0">
+<tr>
+<td align="right" valign="middle">
+<svg width="80" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stem -->
+  <line x1="40" y1="100" x2="40" y2="40" stroke="#8B9E7D" stroke-width="2"/>
+  
+  <!-- Leaves -->
+  <path d="M 40 70 Q 25 75 20 65" fill="none" stroke="#8B9E7D" stroke-width="2"/>
+  <path d="M 40 60 Q 55 65 60 55" fill="none" stroke="#8B9E7D" stroke-width="2"/>
+  
+  <!-- Iris petals (3 falls - lower petals) -->
+  <ellipse cx="40" cy="25" rx="8" ry="15" fill="#D4BBDD" opacity="0.9"/>
+  <ellipse cx="28" cy="30" rx="8" ry="15" fill="#E6D5F0" opacity="0.9" transform="rotate(-50 28 30)"/>
+  <ellipse cx="52" cy="30" rx="8" ry="15" fill="#E6D5F0" opacity="0.9" transform="rotate(50 52 30)"/>
+  
+  <!-- Iris standards (3 upper petals) -->
+  <ellipse cx="40" cy="20" rx="6" ry="12" fill="#B39BC8" opacity="0.8"/>
+  <ellipse cx="32" cy="22" rx="6" ry="12" fill="#C5A8D4" opacity="0.8" transform="rotate(-40 32 22)"/>
+  <ellipse cx="48" cy="22" rx="6" ry="12" fill="#C5A8D4" opacity="0.8" transform="rotate(40 48 22)"/>
+  
+  <!-- Center -->
+  <circle cx="40" cy="25" r="3" fill="#6B4C7A"/>
+</svg>
+</td>
+<td>
 <pre>
 ╔════════════════════════════════════════╗
 ║  > frostmoon.exe --loading             ║
@@ -15,6 +42,10 @@
 ║  > Output: Code & Magic                ║
 ╚════════════════════════════════════════╝
 </pre>
+</td>
+</tr>
+</table>
+
 <div align="center">
     <p>
     <img src="https://img.shields.io/badge/Specialty-D365%20F&O%20💼-E6D5F0?style=for-the-badge&labelColor=D4BBDD&logoColor=white" alt="Specialty: D365"/>
@@ -91,7 +122,7 @@ and bringing my love for design into the mix. There's something really satisfyin
 <p align="center">
   <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4BBDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:frostmoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E6D5F0?style=for-the-badge&logo=gmail&logoColor=6B4C7A" alt="Email"/></a>
+  <a href="mailto:frostmoondev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E6D5F0?style=for-the-badge&logo=gmail&logoColor=6B4C7A" alt="Email"/></a>
 </p>
 
 <p align="center">
