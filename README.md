@@ -2,20 +2,21 @@
   <img src="https://imgur.com/dIDatBb.png" width="150"/>
   <H1>
   霜月 ♡ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
+  </H1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=C4A1D7&center=true&vCenter=true&width=435&lines=Skills+%26+Tools+;My+Tech+Stack;One+line+of+code+at+a+time+♡;Brewing+Magic" alt="Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=Skills+%26+Tools+;My+Tech+Stack;One+line+of+code+at+a+time+♡;Brewing+Magic" alt="Skills" />
 </h1>
 
 <div align="center">
     <p>
-    <img src="https://img.shields.io/badge/Specialty-D365%20F&O%20💼-8892b0?style=for-the-badge&logoColor=white" alt="Specialty: D365"/>
+    <img src="https://img.shields.io/badge/Specialty-D365%20F&O%20💼-E6D5F0?style=for-the-badge&labelColor=D4BBDD&logoColor=white" alt="Specialty: D365"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/Learning-Web%20Dev%20🌐-ccd6f6?style=for-the-badge&labelColor=8892b0&color=ccd6f6" alt="Learning: Web Dev"/>
+    <img src="https://img.shields.io/badge/Learning-Web%20Dev%20🌐-F3EAF8?style=for-the-badge&labelColor=E6D5F0&color=F3EAF8" alt="Learning: Web Dev"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/Loves-Cats%20🐾-8892b0?style=for-the-badge&logoColor=white" alt="Loves: Cats"/>
+    <img src="https://img.shields.io/badge/Loves-Cats%20🐾-D4BBDD?style=for-the-badge&logoColor=white" alt="Loves: Cats"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/Fuel-Iced%20Coffee%20☕-172a45?style=for-the-badge&logoColor=white" alt="Fuel: Iced Coffee"/>
+    <img src="https://img.shields.io/badge/Fuel-Iced%20Coffee%20☕-C5A8D4?style=for-the-badge&logoColor=white" alt="Fuel: Iced Coffee"/>
   </p>
 </div>
 
@@ -27,8 +28,6 @@
 I'm a <b>Microsoft Dynamics 365 Developer</b> specializing in Finance & Operations and Business Central.<br/>
 I build backend solutions with <b>X++</b> and <b>AL</b>, customize SSRS reports, and make sure everything runs smoothly behind the scenes.
 </p>
-
-
 
 <p align="center">
 Lately, I've been exploring the creative side of development — building web applications with <b>Next.js</b> and <b>React</b>,<br/>
@@ -49,31 +48,31 @@ and bringing my love for design into the mix. There's something really satisfyin
   <b>ERP Development</b>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/X++-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="X++"/>
-    <img src="https://img.shields.io/badge/AL-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="AL"/>
-    <img src="https://img.shields.io/badge/SSRS-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSRS"/>
-    <img src="https://img.shields.io/badge/D365_F&O-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="D365 F&O"/>
-    <img src="https://img.shields.io/badge/Business_Central-5D6D7E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Business Central"/>
+    <img src="https://img.shields.io/badge/X++-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="X++"/>
+    <img src="https://img.shields.io/badge/AL-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="AL"/>
+    <img src="https://img.shields.io/badge/SSRS-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSRS"/>
+    <img src="https://img.shields.io/badge/D365_F&O-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="D365 F&O"/>
+    <img src="https://img.shields.io/badge/Business_Central-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Business Central"/>
 </p>
 
 <p align="center">
   <b>Web Development</b>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+    <img src="https://img.shields.io/badge/Next.js-E6D5F0?style=for-the-badge&logo=nextdotjs&logoColor=6B4C7A" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/React-F3EAF8?style=for-the-badge&logo=react&logoColor=B39BC8" alt="React"/>
+    <img src="https://img.shields.io/badge/TypeScript-E6D5F0?style=for-the-badge&logo=typescript&logoColor=6B4C7A" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-D4BBDD?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/GSAP-E6D5F0?style=for-the-badge&logo=greensock&logoColor=6B4C7A" alt="GSAP"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-D4BBDD?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
 <p align="center">
   <b>Design</b>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+    <img src="https://img.shields.io/badge/Figma-E6D5F0?style=for-the-badge&logo=figma&logoColor=6B4C7A" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Canva-D4BBDD?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
 ---
@@ -83,13 +82,13 @@ and bringing my love for design into the mix. There's something really satisfyin
 </H1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4BBDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:frostmoondev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-8892b0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:frostmoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E6D5F0?style=for-the-badge&logo=gmail&logoColor=6B4C7A" alt="Email"/></a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostmoon-dev&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" alt="Top Languages" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostmoon-dev&layout=compact&hide_border=true&bg_color=FAF7FC&title_color=B39BC8&text_color=6B4C7A" alt="Top Languages" height="150">
 </p>
 
 ---
