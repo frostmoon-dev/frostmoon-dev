@@ -23,10 +23,10 @@
 <td>
 <pre>
 ╔════════════════════════════════════════╗
-║  > frostmoon.exe --loading             ║
-║  > Status: Caffeinated                 ║
-║  > Mode: Creative                      ║
-║  > Output: Code & Magic                ║
+║  > Location: Petaling Jaya             ║
+║  > Age: 28                             ║
+║  > Zodiac: Gemini ☼ Leo ☾              ║
+║  > Role: Software Developer            ║
 ╚════════════════════════════════════════╝
 </pre>
 </td>
