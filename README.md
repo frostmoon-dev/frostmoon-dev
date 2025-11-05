@@ -11,27 +11,14 @@
 <table align="center" border="0">
 <tr>
 <td align="right" valign="middle">
-<svg width="80" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Stem -->
-  <line x1="40" y1="100" x2="40" y2="40" stroke="#8B9E7D" stroke-width="2"/>
-  
-  <!-- Leaves -->
-  <path d="M 40 70 Q 25 75 20 65" fill="none" stroke="#8B9E7D" stroke-width="2"/>
-  <path d="M 40 60 Q 55 65 60 55" fill="none" stroke="#8B9E7D" stroke-width="2"/>
-  
-  <!-- Iris petals (3 falls - lower petals) -->
-  <ellipse cx="40" cy="25" rx="8" ry="15" fill="#D4BBDD" opacity="0.9"/>
-  <ellipse cx="28" cy="30" rx="8" ry="15" fill="#E6D5F0" opacity="0.9" transform="rotate(-50 28 30)"/>
-  <ellipse cx="52" cy="30" rx="8" ry="15" fill="#E6D5F0" opacity="0.9" transform="rotate(50 52 30)"/>
-  
-  <!-- Iris standards (3 upper petals) -->
-  <ellipse cx="40" cy="20" rx="6" ry="12" fill="#B39BC8" opacity="0.8"/>
-  <ellipse cx="32" cy="22" rx="6" ry="12" fill="#C5A8D4" opacity="0.8" transform="rotate(-40 32 22)"/>
-  <ellipse cx="48" cy="22" rx="6" ry="12" fill="#C5A8D4" opacity="0.8" transform="rotate(40 48 22)"/>
-  
-  <!-- Center -->
-  <circle cx="40" cy="25" r="3" fill="#6B4C7A"/>
-</svg>
+<pre>
+╔════════════════════════════════════════╗
+║  > frostmoon.exe --loading             ║
+║  > Status: Caffeinated                 ║
+║  > Mode: Creative                      ║
+║  > Output: Code & Magic                ║
+╚════════════════════════════════════════╝
+</pre>
 </td>
 <td>
 <pre>
@@ -62,21 +49,25 @@
   𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 </H1>
 
-<p align="center">
-I'm a <b>Microsoft Dynamics 365 Developer</b> specializing in Finance & Operations and Business Central.<br/>
-I build backend solutions with <b>X++</b> and <b>AL</b>, customize SSRS reports, and make sure everything runs smoothly behind the scenes.
-</p>
-
-<p align="center">
-Lately, I've been exploring the creative side of development — building web applications with <b>Next.js</b> and <b>React</b>,<br/>
-and bringing my love for design into the mix. There's something really satisfying about making interfaces that feel good to use.
-</p>
-
-<p align="center">
-♡ <i>Certified Microsoft Dynamics 365 Finance and Operations Apps Developer Associate</i>
-</p>
-
----
+<table align="center" border="0">
+<tr>
+<td align="right" valign="middle">
+<pre>
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  > A Microsoft Dynamics 365 Developer specializing in Finance & Operations and Business Central.                                ║
+║  > I build backend solutions with X++ and AL, customize SSRS reports, and make sure everything runs smoothly behind the scenes. ║
+║  > Certified Microsoft Dynamics 365 Finance and Operations Apps Developer Associate                                             ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
+  <pre>
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  > Lately, I've been exploring the creative side of development — building web applications with Next.js and React.             ║
+║  > There's something really satisfying about making interfaces that feel good to use.                                           ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
+</td>
+</tr>
+</table>
 
 <H1 align="center">
   𝑺𝒌𝒊𝒍𝒍𝒔
