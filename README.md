@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://imgur.com/dIDatBb.png" width="150"/>
   <H1>
-  霜月 ♡ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
+  ⏾ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
   </H1>
 
 <h1 align="center">
@@ -73,36 +73,59 @@
   𝑺𝒌𝒊𝒍𝒍𝒔
 </H1>
 
+<table align="center" border="0">
+<tr>
+<td align="center" valign="middle">
+<pre>
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=ERP+Development" alt="Skills" />
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
 <p align="center">
-  <b>ERP Development</b>
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/X++-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="X++"/>
-    <img src="https://img.shields.io/badge/AL-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="AL"/>
-    <img src="https://img.shields.io/badge/SSRS-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSRS"/>
-    <img src="https://img.shields.io/badge/D365_F&O-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="D365 F&O"/>
-    <img src="https://img.shields.io/badge/Business_Central-D4BBDD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Business Central"/>
-</p>
+<img src="https://img.shields.io/badge/X++-B19CD9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=563A71" />
+<img src="https://img.shields.io/badge/AL-F0E6FF?style=for-the-badge&logo=microsoft&logoColor=563A71&labelColor=563A71" />
+<img src="https://img.shields.io/badge/D365_F&O-8B5FBF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=563A71" />
+<img src="https://img.shields.io/badge/Business_Central-B19CD9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=563A71" />
+<img src="https://img.shields.io/badge/SSRS-F0E6FF?style=for-the-badge&logo=microsoft&logoColor=563A71&labelColor=563A71" />
 
-<p align="center">
-  <b>Web Development</b>
 </p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<pre>
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=Web+Development" alt="Skills" />
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
 <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-E6D5F0?style=for-the-badge&logo=nextdotjs&logoColor=6B4C7A" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/React-F3EAF8?style=for-the-badge&logo=react&logoColor=B39BC8" alt="React"/>
-    <img src="https://img.shields.io/badge/TypeScript-E6D5F0?style=for-the-badge&logo=typescript&logoColor=6B4C7A" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-D4BBDD?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/GSAP-E6D5F0?style=for-the-badge&logo=greensock&logoColor=6B4C7A" alt="GSAP"/>
-    <img src="https://img.shields.io/badge/Framer_Motion-D4BBDD?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-</p>
+<img src="https://img.shields.io/badge/Next.js-B19CD9?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=563A71" />
+<img src="https://img.shields.io/badge/React-F0E6FF?style=for-the-badge&logo=react&logoColor=563A71&labelColor=563A71" />
+<img src="https://img.shields.io/badge/TypeScript-8B5FBF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=563A71" />
+<img src="https://img.shields.io/badge/JavaScript-B19CD9?style=for-the-badge&logo=javascript&logoColor=white&labelColor=563A71" />
+<img src="https://img.shields.io/badge/GSAP-8B5FBF?style=for-the-badge&logo=greensock&logoColor=white&labelColor=563A71" />
 
-<p align="center">
-  <b>Design</b>
 </p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<pre>
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=Graphics+Design" alt="Skills" />
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
 <p align="center">
-    <img src="https://img.shields.io/badge/Figma-E6D5F0?style=for-the-badge&logo=figma&logoColor=6B4C7A" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Canva-D4BBDD?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/Figma-F0E6FF?style=for-the-badge&logo=figma&logoColor=563A71&labelColor=563A71" />
+<img src="https://img.shields.io/badge/Canva-8B5FBF?style=for-the-badge&logo=canva&logoColor=white&labelColor=563A71" />
+<img src="https://img.shields.io/badge/Git-B19CD9?style=for-the-badge&logo=git&logoColor=white&labelColor=563A71" />
+<img src="https://img.shields.io/badge/SQL_Server-F0E6FF?style=for-the-badge&logo=microsoft-sql-server&logoColor=563A71&labelColor=563A71" />
+<img src="https://img.shields.io/badge/WordPress-DBA8AC?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=563A71" />
+
 </p>
+</td>
+</tr>
+</table>
 
 ---
 
