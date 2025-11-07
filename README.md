@@ -154,10 +154,11 @@
 
 ---
 
-<H1 align="center">
-  𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆
-</H1>
-
+<pre>
+═══════════════════════════════════════════════════════════════════════════════════════════════
+<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=Connect+with+me" alt="Skills" />
+═══════════════════════════════════════════════════════════════════════════════════════════════
+</pre>
 <p align="center">
   <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4BBDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
