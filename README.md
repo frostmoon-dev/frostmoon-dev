@@ -129,11 +129,27 @@
 ---
 
 <H1 align="center">
-   𝑮𝒊𝒕𝑯𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔
+  𝑮𝒊𝒕𝑯𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔
 </H1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frostmoon-dev&theme=nord&no-frame=false&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=frostmoon-dev&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<H1 align="center">
+  𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
+</H1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frostmoon-dev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FAF7FC&title_color=B39BC8&icon_color=D4BBDD&text_color=6B4C7A" alt="GitHub Stats" height="170">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostmoon-dev&layout=compact&hide_border=true&bg_color=FAF7FC&title_color=B39BC8&text_color=6B4C7A" alt="Top Languages" height="300">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frostmoon-dev&bg_color=FAF7FC&color=6B4C7A&line=B39BC8&point=D4BBDD&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -146,10 +162,6 @@
   <a href="https://linkedin.com/in/fatihahmuhd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D4BBDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="mailto:frostmoondev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-E6D5F0?style=for-the-badge&logo=gmail&logoColor=6B4C7A" alt="Email"/></a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostmoon-dev&layout=compact&hide_border=true&bg_color=FAF7FC&title_color=B39BC8&text_color=6B4C7A" alt="Top Languages" height="150">
 </p>
 
 ---
