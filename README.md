@@ -51,12 +51,12 @@
 
 <table align="center" border="0">
 <tr>
-<td align="right" valign="middle">
+<td align="justify" valign="middle">
 <pre>
 ══════════════════════════════════════════════════════════════════════════════════════════════════
-  > A Microsoft Dynamics 365 Developer specializing in FinOps and Business Central                           
-  > Web dev enthusiast!                                                                      
-  > Certified Microsoft Dynamics 365 Finance and Operations Apps Developer Associate         
+  > A Microsoft Dynamics 365 Developer specializing in FinOps & BC
+  > Web dev enthusiast!
+  > Certified Microsoft Dynamics 365 Finance and Operations Apps Developer Associate
 ══════════════════════════════════════════════════════════════════════════════════════════════════
 </pre>
   <pre>
@@ -168,5 +168,5 @@
 ---
 
 <p align="center">
- <i>Instead of building up a résumé only to land a job, enjoy the process of learning something new.  Don’t do it just for the end.  Delight in the means, too.”</i>
+ <i>“Instead of building up a résumé only to land a job, enjoy the process of learning something new.  Don’t do it just for the end.  Delight in the means, too.” </i>
 </p>
