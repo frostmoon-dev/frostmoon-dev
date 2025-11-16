@@ -54,7 +54,7 @@
 <td align="right" valign="middle">
 <pre>
 ══════════════════════════════════════════════════════════════════════════════════════════════════
-  > A Microsoft Dynamics 365 Developer specializing in F&O and BC.                           
+  > A Microsoft Dynamics 365 Developer specializing in FinOps and Business Central                           
   > Web dev enthusiast!                                                                      
   > Certified Microsoft Dynamics 365 Finance and Operations Apps Developer Associate         
 ══════════════════════════════════════════════════════════════════════════════════════════════════
@@ -168,5 +168,5 @@
 ---
 
 <p align="center">
- <i>"Building things that work, feel good, and make a difference."</i>
+ <i>Instead of building up a résumé only to land a job, enjoy the process of learning something new.  Don’t do it just for the end.  Delight in the means, too.”</i>
 </p>
