@@ -128,32 +128,6 @@
 
 ---
 
-<H1 align="center">
-  𝑮𝒊𝒕𝑯𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔
-</H1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frostmoon-dev&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-<H1 align="center">
-  𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
-</H1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frostmoon-dev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FAF7FC&title_color=B39BC8&icon_color=D4BBDD&text_color=6B4C7A" alt="GitHub Stats" height="170">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostmoon-dev&layout=compact&hide_border=true&bg_color=FAF7FC&title_color=B39BC8&text_color=6B4C7A" alt="Top Languages" height="300">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frostmoon-dev&bg_color=FAF7FC&color=6B4C7A&line=B39BC8&point=D4BBDD&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 <pre>
 ═══════════════════════════════════════════════════════════════════════════════════════════════
 <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=Connect+with+me" alt="Skills" />
