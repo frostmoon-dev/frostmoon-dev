@@ -1,7 +1,4 @@
 <div align="center">
-  <H1>
-  ⏾ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
-  </H1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=2500&pause=500&color=D4BBDD&center=true&vCenter=true&width=435&lines=One+line+of+code+at+a+time+♡" alt="Skills" />
