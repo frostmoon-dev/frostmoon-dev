@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://imgur.com/dIDatBb.png" width="150"/>
   <H1>
   ⏾ 𝒇𝒓𝒐𝒔𝒕𝒎𝒐𝒐𝒏 
   </H1>
