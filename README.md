@@ -12,22 +12,23 @@
 </pre>
 
 ## <p align="center">
-  <img src="https://img.shields.io/badge/Specialty-D365%20F&O%20💼-D6E9ED?style=for-the-badge&labelColor=594841&logoColor=white" alt="Specialty: D365"/>
-  <img src="https://img.shields.io/badge/Learning-Web%20Dev%20🌐-CCD6D6?style=for-the-badge&labelColor=684F48&color=CCD6D6" alt="Learning: Web Dev"/>
-  <img src="https://img.shields.io/badge/Loves-Cats%20🐾-D6E9ED?style=for-the-badge&labelColor=594841&logoColor=white" alt="Loves: Cats"/>
-  <img src="https://img.shields.io/badge/Fuel-Iced%20Coffee%20☕-CCD6D6?style=for-the-badge&labelColor=684F48&logoColor=white" alt="Fuel: Iced Coffee"/>
+  <img src="https://img.shields.io/badge/Specialty-D365%20F&O%20-D6E9ED?style=for-the-badge&labelColor=594841&logoColor=white" alt="Specialty: D365"/>
+  <img src="https://img.shields.io/badge/Learning-Web%20Dev%20-CCD6D6?style=for-the-badge&labelColor=684F48&color=CCD6D6" alt="Learning: Web Dev"/>
+  <img src="https://img.shields.io/badge/Loves-Cats%20-D6E9ED?style=for-the-badge&labelColor=594841&logoColor=white" alt="Loves: Cats"/>
+  <img src="https://img.shields.io/badge/Fuel-Iced%20Coffee%20-CCD6D6?style=for-the-badge&labelColor=684F48&logoColor=white" alt="Fuel: Iced Coffee"/>
 </p> 
 <h2>
 
   ## <img src="https://readme-typing-svg.herokuapp.com?font=Taviraj&size=32&duration=2500&pause=5000&color=D6E9ED&center=true&vCenter=true&width=435&lines=About+Me&repeat=false" alt="About Me" />
 </h2>
 
-<pre align="left">
-> A Microsoft Dynamics 365 Developer
-  specializing in FinOps & BC
-> Web dev enthusiast
-> Certified Microsoft Dynamics 365
-  Finance & Operations Developer Associate
+<pre align="center">
+╔══════════════════════════════╗
+║  > D365 Developer            ║
+║  > FinOps / BC               ║
+║  > UI/UX Designer            ║
+║  > Location: Malaysia        ║
+╚══════════════════════════════╝
 </pre>
 
 <pre align="left">
