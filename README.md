@@ -1,13 +1,12 @@
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Taviraj&size=32&duration=2500&pause=5000&color=D6E9ED&center=true&vCenter=true&width=435&lines=One+line+of+code+at+a+time+♡&repeat=false" alt="Headline" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Taviraj&size=32&duration=2500&pause=5000&color=D6E9ED&center=true&vCenter=true&width=435&lines=while(awake)+{+code()};&repeat=false" alt="Headline" />
 <br />
 
 <pre align="center">
 ╔══════════════════════════════╗
 ║  > Status: Caffeinated       ║
 ║  > Mode: Determined          ║
-║  > Role: Software Developer  ║
 ╚══════════════════════════════╝
 </pre>
 
