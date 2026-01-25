@@ -30,10 +30,6 @@
 ╚══════════════════════════════╝
 </pre>
 
-<pre align="left">
-> There's something really satisfying about
-  making interfaces that feel good to use. ₍^. .^₎⟆
-</pre>
 ##
  <img src="https://readme-typing-svg.herokuapp.com?font=Taviraj&size=25&duration=2500&pause=20000&color=D6E9ED&center=true&vCenter=true&width=435&lines=ERP+Development&repeat=false" alt="ERP Development" />
 <p align="center">
